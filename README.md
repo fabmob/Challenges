@@ -14,11 +14,11 @@ Having 3 use cases, defined by the actors of connected mobility and the challeng
 
  - 1- [TWEAG.IO](https://github.com/tweag/connectedcar) 
 
- - 2- [HIPPOBOX]()
+ - 2- HIPPOBOX
 
- - 3- [SMILE]()
+ - 3- SMILE
 
- - 4- [JarjarBus]()
+ - 4- JarjarBus
  
  
 [LOADING]
