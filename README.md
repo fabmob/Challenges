@@ -25,5 +25,6 @@ Having 3 use cases, defined by the actors of connected mobility and the challeng
 
 
 Use full links :
-  http://occ-challenge.mystrikingly.com/
-  https://wiki.lafabriquedesmobilites.fr/wiki/Boitier_Connect%C3%A9_Open_Source
+
+ -   http://occ-challenge.mystrikingly.com/
+ -   https://wiki.lafabriquedesmobilites.fr/wiki/Boitier_Connect%C3%A9_Open_Source
