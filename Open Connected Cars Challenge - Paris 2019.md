@@ -1,6 +1,3 @@
-# Challenges
-You will find here the history and the projects of all challenges organized by FABMOB
-
 ## Open Connected Cars Challenge - Paris 2019
 
 **Description**
